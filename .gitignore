@@ -3,3 +3,4 @@ venv
 .DSStore
 DSStore
 .DS_Store
+.env
